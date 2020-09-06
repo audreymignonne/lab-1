@@ -7,6 +7,9 @@ Audrey Obuobisa-Darko
 57992022
 I love Web Tech!
 
+## Website
+https://www.linkedin.com/in/audrey-obuobisa-darko-b5b771a3/
+
 ## Contents
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
