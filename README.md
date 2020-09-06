@@ -8,7 +8,7 @@ Audrey Obuobisa-Darko
 I love Web Tech!
 
 ## Website
-https://www.linkedin.com/in/audrey-obuobisa-darko-b5b771a3/
+https://audreymignonne.github.io/lab-1/
 
 ## Contents
 
